@@ -15,7 +15,7 @@ const pessoas = {
         facebook: "https://www.facebook.com/fabiola.vasconcellostiburcio",
         instagram: "https://www.instagram.com/fabitibs/",
         whatsapp: "https://wa.me/5515997592459",
-        imgUrl: "./img/fabiola.jpg"
+        imgUrl: "./img/mamae.png"
     },
     "Gabriel": {
         nome: "Gabriel Tiburcio",
